@@ -1,7 +1,8 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Open Eclipse Che :
 
-https://che.openshift.io/f?url=https://github.com/gestrem/spring-petclinic
+[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/f?url=https://github.com/gestrem/spring-petclinic)
+
  
 
 ## Understanding the Spring Petclinic application with a few diagrams
